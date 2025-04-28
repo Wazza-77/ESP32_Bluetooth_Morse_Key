@@ -43,10 +43,12 @@ unsigned long Time4 = 0;
 unsigned long Time5 = 0;
 unsigned long Time6 = 0;
 
+//pins
 int tonePin = 23;
-int levelTone = 200;
 int beepPin;
 int ledPin;
+
+int levelTone = 200;
 int straight = 0;
 int a = 0;
 int Pada;
