@@ -9,5 +9,6 @@ Old Pin Allcoations
 
 New Pin Allocations
 
-![image](https://github.com/user-attachments/assets/459992e9-4d7d-48cd-b241-94d2889cda14)
+![image](https://github.com/user-attachments/assets/c27089d3-813e-4143-a5e2-3d529325066c)
 
+![ESP32 - Copy](https://github.com/user-attachments/assets/8f673ad6-c0e6-43ca-96c9-47f5f71d9642)
