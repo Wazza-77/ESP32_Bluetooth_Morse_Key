@@ -6,3 +6,8 @@ Old Pin Allcoations
 ![image](https://github.com/user-attachments/assets/9de58483-1b51-489d-a11f-a27c6e09141f)
 
 ![ESP32-S3 Mini (Waveshare)](https://github.com/user-attachments/assets/c2824472-c702-4332-9294-2bd61cfaed84)
+
+New Pin Allocations
+
+![image](https://github.com/user-attachments/assets/459992e9-4d7d-48cd-b241-94d2889cda14)
+
