@@ -1,43 +1,11 @@
-//*********************************************************
-//acknowledgement******************************************
-//*********************************************************
-//This software is based in
+//*******************acknowledgement***********************
+//This software is based on
 //* Arduino iambic CW keyer v2.0
 //* for Ham radio usage
-//* Richard Chapman
-//* KC4IFB
+//* Richard Chapman KC4IFB
 //* February, 2009
 //* Richard Chapman KC4IFB published an article in the Sep/Oct 2009 QEX magazine */
 // *******************************************************
-//  Iambic Morse Code Keyer Sketch with added Side-Tone
-//  added Message keyer and enable poteniometer speed control
-//  Copyright (c) Bob Anding 2017
-//
-//  This library is free software;you can redistribute it and/or
-//  modify it under the terms of the GNU Lesser General Public
-//  License as published by the Free Software Foundation;either
-//  version 2.1 of the License, or (at your option) any later version.
-//
-//  This library is distributed in the hope that it will be useful,
-//  but WITHOUT ANY WARRANTY;without even the implied warranty of
-//  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
-//  Lesser General Public License for more details:
-//
-//  Free Software Foundation, Inc., 59 Temple Place, Suite 330,
-//  Boston, MA  02111-1307  USA
-//  ROBERT D ANDING, II (AA5OY) added some modifications you can see in his page.
-//  https://bandingsite.wordpress.com/arduino-iambic-keyer/
-//  I downloaded the code from his page.
-//  https://bandingsite.files.wordpress.com/2017/08/iambic-keyer.odt
-//  I have used the keyer and the stored message code as a kernel for my software
-//*********************************************************
-//
-//
-
-//*************************************************************************
-//*******************Modified by José Bascón EA7HVO************************
-//*************************   01/09/2020  *********************************
-//*************************************************************************
 #include "BluetoothSerial.h"         
 #include "EEPROM.h"
 
